@@ -12,8 +12,10 @@ python dashboard_app_2.py
 ***
 
 ## App Login
+***
 User Name: admin
 Password: admin
+***
 
 # Audio Analysis Application
 
