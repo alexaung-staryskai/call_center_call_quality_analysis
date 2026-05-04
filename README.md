@@ -11,6 +11,10 @@ source .venv/bin/activate
 python dashboard_app_2.py
 ***
 
+## App Login
+User Name: admin
+Password: admin
+
 # Audio Analysis Application
 
 A local Python application that reads MP3 files from an `input` folder, transcribes them on CPU with PyTorch and torchaudio, saves transcripts as JSON, analyzes each transcript without using large language models, and writes the final results to a CSV file.
