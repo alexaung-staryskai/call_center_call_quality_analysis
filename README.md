@@ -6,16 +6,16 @@ python main.py
 ***
 
 ## Visual Mockup
-***
+``` text
 source .venv/bin/activate
 python dashboard_app_2.py
-***
+```
 
 ## App Login
-***
+```text
 User Name: admin
 Password: admin
-***
+```
 
 # Audio Analysis Application
 
