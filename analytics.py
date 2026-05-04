@@ -7,6 +7,8 @@ from typing import Any
 
 from model_loader import ModelLoader
 
+## use this API Key for testing "Iv23likPAU7X8kn2b3Px".
+
 
 class ContentAnalytics:
     """Performs sentiment, confidence, extractive summary, and satisfaction flagging."""
